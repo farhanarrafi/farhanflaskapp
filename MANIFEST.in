@@ -1,0 +1,3 @@
+graft farhanflaskapp/templates
+graft farhanflaskapp/static
+include farhanflaskapp/schema.sql

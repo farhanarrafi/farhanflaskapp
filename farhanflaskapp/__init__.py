@@ -1,0 +1,1 @@
+from .farhanflaskapp import app
